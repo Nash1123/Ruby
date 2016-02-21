@@ -1,0 +1,241 @@
+[{
+	"listing_class": "Sale",
+	"address": "10 Sullivan Street",
+	"unit": "PENTHOUSE",
+	"url": "http://streeteasy.com/nyc/sale/1149086",
+	"price": 45000000
+},{
+	"listing_class": "Sale",
+	"address": "180 Ave Of The Americas",
+	"unit": "#PHA",
+	"url": "http://streeteasy.com/nyc/sale/1049930",
+	"price": 28000000
+},{
+	"listing_class": "Sale",
+	"address": "10 Sullivan Street",
+	"unit": "#DUPLEX",
+	"url": "http://streeteasy.com/nyc/sale/1149640",
+	"price": 25000000
+},{
+	"listing_class": "Sale",
+	"address": "350 West Broadway",
+	"unit": "#PH",
+	"url": "http://streeteasy.com/nyc/sale/1185507",
+	"price": 22500000
+},{
+	"listing_class": "Sale",
+	"address": "20 Sullivan Street",
+	"unit": "",
+	"url": "http://streeteasy.com/nyc/sale/1149562",
+	"price": 18500000
+},{
+	"listing_class": "Sale",
+	"address": "20 Greene Street",
+	"unit": "#PHB",
+	"url": "http://streeteasy.com/nyc/sale/1209385",
+	"price": 18000000
+},{
+	"listing_class": "Sale",
+	"address": "94 Thompson Street",
+	"unit": "#PH",
+	"url": "http://streeteasy.com/nyc/sale/1195242",
+	"price": 17995000
+},{
+	"listing_class": "Sale",
+	"address": "50 Wooster St",
+	"unit": "#5N",
+	"url": "http://streeteasy.com/nyc/sale/1202629",
+	"price": 16950000
+},{
+	"listing_class": "Sale",
+	"address": "158 Mercer Street",
+	"unit": "#7B",
+	"url": "http://streeteasy.com/nyc/sale/1106182",
+	"price": 16900000
+},{
+	"listing_class": "Sale",
+	"address": "158 Mercer Street",
+	"unit": "#3/4B",
+	"url": "http://streeteasy.com/nyc/sale/1191070",
+	"price": 14950000
+},{
+	"listing_class": "Sale",
+	"address": "63 Greene Street",
+	"unit": "#PHA",
+	"url": "http://streeteasy.com/nyc/sale/1210189",
+	"price": 12950000
+},{
+	"listing_class": "Sale",
+	"address": "41 King Street",
+	"unit": "",
+	"url": "http://streeteasy.com/nyc/sale/1204050",
+	"price": 10500000
+},{
+	"listing_class": "Sale",
+	"address": "10 Sullivan Street",
+	"unit": "#9A",
+	"url": "http://streeteasy.com/nyc/sale/1206883",
+	"price": 9750000
+},{
+	"listing_class": "Sale",
+	"address": "45 Greene Street",
+	"unit": "#6",
+	"url": "http://streeteasy.com/nyc/sale/1138335",
+	"price": 9750000
+},{
+	"listing_class": "Sale",
+	"address": "40 MERCER ST",
+	"unit": "#37",
+	"url": "http://streeteasy.com/nyc/sale/1202561",
+	"price": 9500000
+},{
+	"listing_class": "Sale",
+	"address": "85 Sullivan Street",
+	"unit": "",
+	"url": "http://streeteasy.com/nyc/sale/1203592",
+	"price": 9250000
+},{
+	"listing_class": "Sale",
+	"address": "104 Wooster Street",
+	"unit": "#4S",
+	"url": "http://streeteasy.com/nyc/sale/1203657",
+	"price": 8750000
+},{
+	"listing_class": "Sale",
+	"address": "145 Sixth Avenue",
+	"unit": "#5",
+	"url": "http://streeteasy.com/nyc/sale/1204066",
+	"price": 8099000
+},{
+	"listing_class": "Sale",
+	"address": "350 W Broadway",
+	"unit": "#6",
+	"url": "http://streeteasy.com/nyc/sale/1163655",
+	"price": 8000000
+},{
+	"listing_class": "Sale",
+	"address": "47 Mercer Street",
+	"unit": "3RD-FLOOR",
+	"url": "http://streeteasy.com/nyc/sale/1199406",
+	"price": 7825000
+},{
+	"listing_class": "Rental",
+	"address": "438 Broome St",
+	"unit": "#RETAIL",
+	"url": "http://streeteasy.com/nyc/rental/1701206",
+	"price": 50416
+},{
+	"listing_class": "Rental",
+	"address": "350 West Broadway",
+	"unit": "#PH",
+	"url": "http://streeteasy.com/nyc/rental/1715955",
+	"price": 49000
+},{
+	"listing_class": "Rental",
+	"address": "42 Wooster Street",
+	"unit": "#5",
+	"url": "http://streeteasy.com/nyc/rental/1551244",
+	"price": 32084
+},{
+	"listing_class": "Rental",
+	"address": "465 West Broadway",
+	"unit": "#3N",
+	"url": "http://streeteasy.com/nyc/rental/1730387",
+	"price": 26000
+},{
+	"listing_class": "Rental",
+	"address": "519 BROADWAY",
+	"unit": "#4",
+	"url": "http://streeteasy.com/nyc/rental/1710375",
+	"price": 25000
+},{
+	"listing_class": "Rental",
+	"address": "366 West Broadway",
+	"unit": "#2",
+	"url": "http://streeteasy.com/nyc/rental/1677254",
+	"price": 25000
+},{
+	"listing_class": "Rental",
+	"address": "311 West Broadway",
+	"unit": "#TH4",
+	"url": "http://streeteasy.com/nyc/rental/1712893",
+	"price": 25000
+},{
+	"listing_class": "Rental",
+	"address": "460 W BROADWAY",
+	"unit": "#3/4N",
+	"url": "http://streeteasy.com/nyc/rental/1704342",
+	"price": 23000
+},{
+	"listing_class": "Rental",
+	"address": "103 Greene Street",
+	"unit": "#4B",
+	"url": "http://streeteasy.com/nyc/rental/1600743",
+	"price": 22000
+},{
+	"listing_class": "Rental",
+	"address": "145 Sixth Avenue",
+	"unit": "#6B",
+	"url": "http://streeteasy.com/nyc/rental/1695749",
+	"price": 20000
+},{
+	"listing_class": "Rental",
+	"address": "481 Washington Street",
+	"unit": "#3S",
+	"url": "http://streeteasy.com/nyc/rental/1669395",
+	"price": 20000
+},{
+	"listing_class": "Rental",
+	"address": "511 Canal Street",
+	"unit": "",
+	"url": "http://streeteasy.com/nyc/rental/1415509",
+	"price": 20000
+},{
+	"listing_class": "Rental",
+	"address": "53 GREENE Street",
+	"unit": "#3",
+	"url": "http://streeteasy.com/nyc/rental/1706402",
+	"price": 19500
+},{
+	"listing_class": "Rental",
+	"address": "48 Mercer Street",
+	"unit": "#7W",
+	"url": "http://streeteasy.com/nyc/rental/1542137",
+	"price": 19000
+},{
+	"listing_class": "Rental",
+	"address": "70 MERCER ST",
+	"unit": "#2FL",
+	"url": "http://streeteasy.com/nyc/rental/1649372",
+	"price": 16500
+},{
+	"listing_class": "Rental",
+	"address": "495 Broome Street",
+	"unit": "#2",
+	"url": "http://streeteasy.com/nyc/rental/1710477",
+	"price": 15000
+},{
+	"listing_class": "Rental",
+	"address": "330 Spring Street",
+	"unit": "#9B",
+	"url": "http://streeteasy.com/nyc/rental/1674639",
+	"price": 15000
+},{
+	"listing_class": "Rental",
+	"address": "66 Crosby St",
+	"unit": "#2CD",
+	"url": "http://streeteasy.com/nyc/rental/1703945",
+	"price": 14950
+},{
+	"listing_class": "Rental",
+	"address": "577 Broadway",
+	"unit": "SECOND-FLOOR",
+	"url": "http://streeteasy.com/nyc/rental/1660260",
+	"price": 14208
+},{
+	"listing_class": "Rental",
+	"address": "28 GREENE STREET",
+	"unit": "#5E",
+	"url": "http://streeteasy.com/nyc/rental/1728103",
+	"price": 14000
+}]
