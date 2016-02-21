@@ -39,9 +39,9 @@ dataLayer_rental = doc_rental.xpath("//script")[7].text.split("\":{\"id\":")
 # Create 2 object arrays (apts_sell & apts_rental) to store Apartment objects.
 apts_sell = Array.new(20)
 apts_rental = Array.new(20)
+info_sell = getInfo(dataLayer_sell[i + 1])
+info_rental = getInfo(dataLayer_rental[i + 1])
 for i in 0..19
-	info_sell = getInfo(dataLayer_sell[i + 1])
-	info_rental = getInfo(dataLayer_rental[i + 1])
 	apts_sell[i] = Apartment.new("Sale", info_sell[0], info_sell[1], info_sell[2], info_sell[3])
 	apts_rental[i] = Apartment.new("Rental", info_rental[0], info_rental[1], info_rental[2], info_rental[3])
 end
